@@ -15,5 +15,5 @@
 - `abstract.txt` : 梗概
 - `diff.html` : `output_original.txt` と `takusen.txt` を比較した差分比較用のHTMLファイル
 - `memo.txt` : 自作解題
-- `output_original.txt` : 生のプレーンテキストデータを連結したファイル（梗概抜き）`
+- `output_original.txt` : 生のプレーンテキストデータを連結したファイル（梗概抜き）
 - `takusen.txt` : `output_original.txt` を下村が改稿したファイル（梗概抜き）
